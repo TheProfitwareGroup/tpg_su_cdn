@@ -1,0 +1,11 @@
+.grid-item-big,
+.grid-item{
+	width:120px;
+	height:120px;
+	float:left;
+	margin:0px 8px 8px 0px;
+}
+
+.grid-item-big{
+	width:248px;
+}
