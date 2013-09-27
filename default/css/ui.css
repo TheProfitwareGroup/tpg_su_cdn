@@ -4,7 +4,7 @@
 	float:left;
 	padding:6px 10px 6px 10px;
 	text-align:center;
-	background:#999 url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/ui/btn.png) left top repeat-x;
+	background:#999 url(http://profitware.github.io/tpg_su_cdn/default/img/ui/btn.png) left top repeat-x;
 	border-radius:3px;
 	text-decoration:none;
 	color:#fff !important;
@@ -154,7 +154,7 @@ a.ui-button.ui-select:hover .b-right{ background-position:0px 0px; }
 /* OPTION */
 .ui-option{
 	display:block;
-	background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/ui/option.png) left 0px no-repeat;
+	background:url(http://profitware.github.io/tpg_su_cdn/default/img/ui/option.png) left 0px no-repeat;
 	height:15px;
 	padding:3px 0px;
 	padding-left:26px;
@@ -163,10 +163,10 @@ a.ui-button.ui-select:hover .b-right{ background-position:0px 0px; }
 	color:#eee;
 	font-size:11px;
 }
-.ui-option:active{ background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/ui/option.png) left -42px no-repeat; }
+.ui-option:active{ background:url(http://profitware.github.io/tpg_su_cdn/default/img/ui/option.png) left -42px no-repeat; }
 .ui-option input{ display:none; }
-.ui-option.active{ background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/ui/option.png) left -21px no-repeat; }
-.ui-option.active:active{ background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/ui/option.png) left -63px no-repeat; }
+.ui-option.active{ background:url(http://profitware.github.io/tpg_su_cdn/default/img/ui/option.png) left -21px no-repeat; }
+.ui-option.active:active{ background:url(http://profitware.github.io/tpg_su_cdn/default/img/ui/option.png) left -63px no-repeat; }
 
 
 /* BUTTON MENU */
@@ -212,7 +212,7 @@ a.ui-button.ui-select:hover .b-right{ background-position:0px 0px; }
 	height:100%;
 	border-top:#ddd 1px solid;
 	min-height:18px;
-	background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/ui/tab-bg.gif) left top repeat;
+	background:url(http://profitware.github.io/tpg_su_cdn/default/img/ui/tab-bg.gif) left top repeat;
 }
 
 .ui-tabs .ui-tab{
@@ -263,7 +263,7 @@ a.ui-button.ui-select:hover .b-right{ background-position:0px 0px; }
 	float:left;
 	height:28px;
 	width:17px;
-	background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/window/lPanel.png) center center no-repeat;
+	background:url(http://profitware.github.io/tpg_su_cdn/default/img/window/lPanel.png) center center no-repeat;
 }
 
 .c-panel .panel-br{
@@ -293,7 +293,7 @@ a.ui-button.ui-select:hover .b-right{ background-position:0px 0px; }
 
 .progress .bar{
 	height:22px;
-	background:#777 url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/loader/progress.gif) top right repeat-x;
+	background:#777 url(http://profitware.github.io/tpg_su_cdn/default/img/loader/progress.gif) top right repeat-x;
 	box-shadow:0px 0px 1px 1px #333;
 	border-radius:1px;
 }
@@ -347,18 +347,18 @@ a.ui-button.ui-select:hover .b-right{ background-position:0px 0px; }
 	text-decoration:none;
 	width:29px;
 	height:20px;
-	background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/window/min.png) left top no-repeat;
+	background:url(http://profitware.github.io/tpg_su_cdn/default/img/window/min.png) left top no-repeat;
 	float:left;
 }
-.win-layout .panel.win-header .win-min:hover{ background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/window/min.png) left bottom no-repeat; }
-.win-layout .panel.win-header .win-close{ background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/window/close.png) left top no-repeat; width:47px; }
-.win-layout .panel.win-header .win-close:hover{ background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/window/close.png) left bottom no-repeat; }
+.win-layout .panel.win-header .win-min:hover{ background:url(http://profitware.github.io/tpg_su_cdn/default/img/window/min.png) left bottom no-repeat; }
+.win-layout .panel.win-header .win-close{ background:url(http://profitware.github.io/tpg_su_cdn/default/img/window/close.png) left top no-repeat; width:47px; }
+.win-layout .panel.win-header .win-close:hover{ background:url(http://profitware.github.io/tpg_su_cdn/default/img/window/close.png) left bottom no-repeat; }
 .win-layout .logo{ width:40px; }
 
 
 
-.win-layout .win-title-config{ background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/window/titles/config.png) center center no-repeat; }
-.win-layout .win-title-about{ background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/window/titles/about.png) center center no-repeat; }
+.win-layout .win-title-config{ background:url(http://profitware.github.io/tpg_su_cdn/default/img/window/titles/config.png) center center no-repeat; }
+.win-layout .win-title-about{ background:url(http://profitware.github.io/tpg_su_cdn/default/img/window/titles/about.png) center center no-repeat; }
 
 
 
@@ -372,7 +372,7 @@ a.ui-button.ui-select:hover .b-right{ background-position:0px 0px; }
 
 /* ARROWS */
 .arrow-7-6{
-	background:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/ui/arrows.png) -142px -205px no-repeat;
+	background:url(http://profitware.github.io/tpg_su_cdn/default/img/ui/arrows.png) -142px -205px no-repeat;
 	height:11px;
 	width:16px;
 	float:left;
@@ -423,8 +423,8 @@ table.table th{
 	background-position:right center;
 	background-repeat:no-repeat;
 }
-table.table th.headerSortUp{ 	background-image:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/ui/tpl-up.png); }
-table.table th.headerSortDown{ 	background-image:url(http://profitware.s3-website-eu-west-1.amazonaws.com/tpg.su/img/ui/tpl-dwn.png); }
+table.table th.headerSortUp{ 	background-image:url(http://profitware.github.io/tpg_su_cdn/default/img/ui/tpl-up.png); }
+table.table th.headerSortDown{ 	background-image:url(http://profitware.github.io/tpg_su_cdn/default/img/ui/tpl-dwn.png); }
 
 table.table td img,
 table.table th img{
