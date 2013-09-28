@@ -28,7 +28,7 @@ slider.int = '';
 
 /* PUBLIC CONFIG */
 slider.pictures = ['pic1.png', 'pic2.png', 'pic4.png'];
-slider.links = ['weblab', 'platform', 'eventflow'];
+slider.links = ['/weblab', '/platform', '/eventflow'];
 slider.append = 0;
 slider.interval = 5000;
 slider.speed = 500;
