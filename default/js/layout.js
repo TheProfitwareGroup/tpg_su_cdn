@@ -26,9 +26,11 @@ var slider = new Object();
 slider.num = 1;
 slider.int = '';
 
+tpg.root = 'http://tpg.su/';
+
 /* PUBLIC CONFIG */
 slider.pictures = ['pic1.png', 'pic2.png', 'pic4.png'];
-slider.links = ['/weblab', '/platform', '/eventflow'];
+slider.links = ['weblab', 'platform', 'eventflow'];
 slider.append = 0;
 slider.interval = 5000;
 slider.speed = 500;
@@ -62,7 +64,7 @@ slider.pic = function(num){
 	}
 };
 slider.click = function(){
-	document.location = tpg.url + slider.links[slider.pic(slider.num)];
+	document.location = tpg.root + slider.links[slider.pic(slider.num)];
 };
 slider.remAn = function(){
 
