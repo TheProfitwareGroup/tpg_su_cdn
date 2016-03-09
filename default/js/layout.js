@@ -26,7 +26,7 @@ var slider = new Object();
 slider.num = 1;
 slider.int = '';
 
-tpg.root = 'http://tpg.su/';
+tpg.root = 'https://tpg.su/';
 
 /* PUBLIC CONFIG */
 slider.pictures = ['pic1.png', 'pic2.png', 'pic4.png'];
